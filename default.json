@@ -1,0 +1,30 @@
+{
+   "api" : "0.13",
+   "space" : "Perth Artifactory",
+   "logo" :"http://artifactory.org.au/branding/artifactory-logo.png",
+   "address": "8/16 Guthrie Street, Osborne Park, WA 6017",
+   "icon" : { 
+      "open" : "http://artifactory.org.au/branding/spaceopen.png",
+      "closed" : "http://artifactory.org.au/branding/spaceopen.png"
+   },
+   "url" : "http://artifactory.org.au/",
+   "location" : {
+      "lat" : -31.901846,
+      "lon" : 115.810136
+   },
+   "open" : false,
+   "state" : {
+      "open" : false,
+      "lastchange" : 1364380000,
+      "message" : "State unknown - check webcam"
+   },
+   "contact" : { 
+      "irc": "irc://freenode.net/#artifactory",
+      "twitter" : "@PerthArtifact",
+      "ml" : "artifactory-core@googlegroups.com",
+      "email" : "info@artifactory.org.au"
+ 
+
+   },
+   "issue-report-channels" : [ "email", "ml" ]
+}

@@ -1,0 +1,14 @@
+{
+   "api" : "0.12",
+   "space" : "Perth Artifactory",
+   "logo" :"http://artifactory.org.au/branding/artifactory-logo.png",
+   "address": "8/16 Guthrie Street, Osborne Park, WA",
+   "icon" : { 
+      "open" : "http://artifactory.org.au/branding/spaceopen.png",
+      "closed" : "http://artifactory.org.au/branding/spaceopen.png"
+   },
+   "url" : "http://artifactory.org.au/",
+   "lat" : -31.901846,
+   "lon" : 115.810136
+   "open" : false
+}
