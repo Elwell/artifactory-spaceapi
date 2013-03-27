@@ -5,7 +5,7 @@
    "address": "8/16 Guthrie Street, Osborne Park, WA 6017",
    "icon" : { 
       "open" : "http://artifactory.org.au/branding/spaceopen.png",
-      "closed" : "http://artifactory.org.au/branding/spaceopen.png"
+      "closed" : "http://artifactory.org.au/branding/spaceclosed.png"
    },
    "url" : "http://artifactory.org.au/",
    "location" : {
