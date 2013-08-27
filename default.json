@@ -26,5 +26,5 @@
  
 
    },
-   "issue-report-channels" : [ "email", "ml" ]
+   "issue_report_channels" : [ "email", "ml" ]
 }
